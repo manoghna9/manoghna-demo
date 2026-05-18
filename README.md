@@ -1,4 +1,4 @@
 # manoghna-demo
 This is my first repository
 <br>
-Author - Manoghna
+Author - Manoghna (Student)
